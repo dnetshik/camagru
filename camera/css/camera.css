@@ -1,0 +1,30 @@
+#cam
+{
+    width: 400px;
+    background: #cccccc;
+    border: 10px solid #ddd;
+    margin: 0 auto;
+}
+
+#video
+{
+    width: 400px;
+    height: 300px;
+}
+
+.take
+{
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: green;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+#canvas
+{
+    width: 400px;
+    height: 300px;
+}
